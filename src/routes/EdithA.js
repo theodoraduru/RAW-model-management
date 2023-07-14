@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Edith from "../components/Edith";
 import Footer from "../components/Footer";
+import Transition from "../Transition";
 
 const EdithA = () => {
   return (

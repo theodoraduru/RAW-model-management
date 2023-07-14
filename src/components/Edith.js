@@ -15,7 +15,7 @@ import edithc from "../assets/edith/edithc.JPG";
 import edithd from "../assets/edith/edithd.JPG";
 import edithe from "../assets/edith/edithe.JPG";
 import edithf from "../assets/edith/edithf.JPG";
-import Transition from "../Transition";
+// import Transition from "../Transition";
 const Edith = () => {
   return (
     <div className="placement-container">
@@ -48,4 +48,4 @@ const Edith = () => {
   );
 };
 
-export default Transition(Edith);
+export default Edith;
