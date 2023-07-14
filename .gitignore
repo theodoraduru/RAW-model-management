@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # /src/assets/landing.mp4
- /src/assets
+# /src/assets/landing.mp4
